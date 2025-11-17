@@ -12,8 +12,16 @@
     # that the JRE that ships with Starsector does not include).
     #
     # A link to the raw .version JSON data
-    "masterVersionFile":"https://drive.google.com/file/d/1_urJBb7qj3NdPd_lZkg7xuSRpJav8bvv/view?usp=drive_link&export_download",
+	
+	
+	
+    "masterVersionFile":"https://github.com/dreadnought191765/starsector-all-the-domain-drones-version-files/blob/main/all_the_domain_drones%2BNewDrones.version",
     
+	
+	
+	
+	
+	
     # The name that is displayed in-game for your mod
     "modName":"All the Domain Drones+ New Drones",
     
@@ -51,5 +59,5 @@
     
     # Point at a directly accessible text file; fetched from the online version file
     # The contents of said file will be shown for that mod in LunaLib's main menu version checker UI
-    "changelogURL":"https://www.dropbox.com/scl/fi/0su0thh6b0osebgtpz6ue/All-the-Domain-Drones-New-Drones-Changelog.txt?rlkey=el0tlody2vuuddg8mdoas5y1y&st=wwgjv92f&dl=0"
+    "changelogURL":"https://github.com/dreadnought191765/starsector-all-the-domain-drones-version-files/blob/main/All%20the%20Domain%20Drones%2B%20New%20Drones%20Changelog.txt"
 }
