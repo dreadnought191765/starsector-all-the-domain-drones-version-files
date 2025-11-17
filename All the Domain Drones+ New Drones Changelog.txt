@@ -1,4 +1,0 @@
-Changelog for New Drones+
-
-1.0a
-Increased station mass to 5000 for all station tiers.
