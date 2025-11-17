@@ -1,5 +1,5 @@
 {
-    "masterVersionFile":"https://github.com/dreadnought191765/starsector-all-the-domain-drones-version-files/blob/main/all_the_domain_drones%2BNewDrones.version",
+    "masterVersionFile":"https://raw.githubusercontent.com/dreadnought191765/starsector-all-the-domain-drones-version-files/refs/heads/main/all_the_domain_drones%2BNewDrones.version",
     "modName":"All the Domain Drones+ New Drones",
     "modThreadId":25888,
     "modVersion":
@@ -9,5 +9,5 @@
         "patch":a,
     },
     "directDownloadURL":"https://www.dropbox.com/s/xxdaflon17jhg2k/All%20the%20Domain%20Drones%2B%20New%20Drones.rar?dl=1",
-    "changelogURL":"https://github.com/dreadnought191765/starsector-all-the-domain-drones-version-files/blob/main/All%20the%20Domain%20Drones%2B%20New%20Drones%20Changelog.md",
+    "changelogURL":"https://raw.githubusercontent.com/dreadnought191765/starsector-all-the-domain-drones-version-files/refs/heads/main/changelog.txt",
 }
