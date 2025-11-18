@@ -1,11 +1,11 @@
 {
-    "masterVersionFile":"https://raw.githubusercontent.com/dreadnought191765/starsector-all-the-domain-drones-version-files/refs/heads/main/all_the_domain_drones%2BNewDrones.version",
-    "modName":"all_the_domain_drones+Vanilla",
+    "masterVersionFile":"https://raw.githubusercontent.com/dreadnought191765/starsector-all-the-domain-drones-version-files/refs/heads/main/all_the_domain_drones%2BVanilla.version",
+    "modName":"All the Domain Drones+ Vanilla",
     "modThreadId":25888,
     "modVersion":
     {
         "major":1,
-        "minor":0,
+        "minor":1,
         "patch":a,
     },
     "directDownloadURL":"https://www.dropbox.com/scl/fi/h4cyj7i67p0cry8c76uk0/Domain-Drones-Vanilla.rar?rlkey=4ur2cbm3gyrr5de8ybez19hvz&st=w6b1a4d6&dl=1",
