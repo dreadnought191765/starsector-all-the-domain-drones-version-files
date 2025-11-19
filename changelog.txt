@@ -1,16 +1,20 @@
 V1.0a - New Drones
 ------
-
 Increased station mass to 5000 for all station tiers.
 Added version checker support.
+
 
 v1.0a - Vanilla
 ------
 added version checker
 
+
 1.1a - Vanilla and New Drones+
-
 ------
-
 Tweaked low tech paintjobs, making them a litte more brown than red-pink.
 For new drones, many ships have had many built in hullmods removed. The Domain Battleship had some nerfs applied to its flux.
+
+
+1.1b - New Drones 
+------
+Some stat adjustments to ships. 
