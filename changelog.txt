@@ -27,3 +27,8 @@ Many ships have been given Damper Field or Canister shells.
 Mechanic has gained a small ballistic slot cause why not lol. And the fuel tank sprite is now red.
 Works with existing saves.
 
+1.3c - New Drones
+------
+
+Works with existing saves.
+The Turret (which is a small medieval tower) is a new frigate. Decently armoured, flares, damper field and 7 small turrets. The vanguard of the Explorium. 
