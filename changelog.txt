@@ -24,5 +24,6 @@ Some stat adjustments to ships.
 
 Survey ship and probe slightly cheaper to deploy.
 Many ships have been given Damper Field or Canister shells.
-Mechanic has gained a small ballistic slot cause why not lol
+Mechanic has gained a small ballistic slot cause why not lol. And the fuel tank sprite is now red.
 Works with existing saves.
+
