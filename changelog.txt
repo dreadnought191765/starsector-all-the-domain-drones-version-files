@@ -18,3 +18,11 @@ For new drones, many ships have had many built in hullmods removed. The Domain B
 1.1b - New Drones 
 ------
 Some stat adjustments to ships. 
+
+1.2b - New Drones
+------
+
+Survey ship and probe slightly cheaper to deploy.
+Many ships have been given Damper Field or Canister shells.
+Mechanic has gained a small ballistic slot cause why not lol
+Works with existing saves.
