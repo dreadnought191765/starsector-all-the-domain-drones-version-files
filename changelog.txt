@@ -32,3 +32,8 @@ Works with existing saves.
 
 Works with existing saves.
 The Turret (which is a small medieval tower) is a new frigate. Decently armoured, flares, damper field and 7 small turrets. The vanguard of the Explorium. 
+
+1.3d - New Drones
+------
+
+Added Mining Charges. Small, medium and large missile weapons that launch bombs. The Fencer Bomber variant has been changed to use this.
