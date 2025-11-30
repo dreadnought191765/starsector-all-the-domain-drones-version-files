@@ -19,6 +19,7 @@ For new drones, many ships have had many built in hullmods removed. The Domain B
 ------
 Some stat adjustments to ships. 
 
+
 1.2b - New Drones
 ------
 
@@ -27,13 +28,25 @@ Many ships have been given Damper Field or Canister shells.
 Mechanic has gained a small ballistic slot cause why not lol. And the fuel tank sprite is now red.
 Works with existing saves.
 
+
 1.3c - New Drones
 ------
 
 Works with existing saves.
 The Turret (which is a small medieval tower) is a new frigate. Decently armoured, flares, damper field and 7 small turrets. The vanguard of the Explorium. 
 
+
 1.3d - New Drones
 ------
 
 Added Mining Charges. Small, medium and large missile weapons that launch bombs. The Fencer Bomber variant has been changed to use this.
+
+
+1.4a - New Drones
+------
+
+Added ballistic and energy based Mining charge launchers (small, medium and large). They have less burst damage than the missile slot variant, but regenerate ammo. The energy variant deals less damage, is kinetic, and has an emp effect.
+Added new Mining Drone variant (vanilla one) that uses a Ballistic Mining Charge Catapult.
+Added new Mech drone with 3 mining lasers and dampener field. A very durable escort wing.
+Some capital ships have been given more armour, or more hp, and some more OP.
+
