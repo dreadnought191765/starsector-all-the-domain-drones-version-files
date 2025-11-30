@@ -49,4 +49,5 @@ Added ballistic and energy based Mining charge launchers (small, medium and larg
 Added new Mining Drone variant (vanilla one) that uses a Ballistic Mining Charge Catapult.
 Added new Mech drone with 3 mining lasers and dampener field. A very durable escort wing.
 Some capital ships have been given more armour, or more hp, and some more OP.
+Jouster and Fencer Bomber no longer affected by reserve deployment. Fencer Hammer now has 2 bombers per wing.
 
