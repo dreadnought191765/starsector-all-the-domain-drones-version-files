@@ -51,3 +51,8 @@ Added new Mech drone with 3 mining lasers and dampener field. A very durable esc
 Some capital ships have been given more armour, or more hp, and some more OP.
 Jouster and Fencer Bomber no longer affected by reserve deployment. Fencer Hammer now has 2 bombers per wing.
 
+
+1.5a - New Drones
+------
+Turret ship is now automated.
+Added Lancer escort wing.
